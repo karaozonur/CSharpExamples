@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console-1-YuzdeHesaplama", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form-1-YuzdeHesaplama", "Form-1-YuzdeHesaplama\Form-1-YuzdeHesaplama.csproj", "{940A931D-1C0F-4905-AACE-E4ACC1784247}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console-2-KarHesaplama", "Console-2-KarHesaplama\Console-2-KarHesaplama.csproj", "{7085FFDD-4617-4C7B-B71B-3ABFEEA02A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form-2-KarHesaplama", "Form-2-KarHesaplama\Form-2-KarHesaplama.csproj", "{9C106EFF-FDE0-4EC6-B476-CAD2CABC0128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{940A931D-1C0F-4905-AACE-E4ACC1784247}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{940A931D-1C0F-4905-AACE-E4ACC1784247}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{940A931D-1C0F-4905-AACE-E4ACC1784247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7085FFDD-4617-4C7B-B71B-3ABFEEA02A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7085FFDD-4617-4C7B-B71B-3ABFEEA02A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7085FFDD-4617-4C7B-B71B-3ABFEEA02A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7085FFDD-4617-4C7B-B71B-3ABFEEA02A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C106EFF-FDE0-4EC6-B476-CAD2CABC0128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C106EFF-FDE0-4EC6-B476-CAD2CABC0128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C106EFF-FDE0-4EC6-B476-CAD2CABC0128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C106EFF-FDE0-4EC6-B476-CAD2CABC0128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
