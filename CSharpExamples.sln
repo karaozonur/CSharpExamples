@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console-1-YuzdeHesaplama", "CSharp-Ornek1-YuzdeHesaplama\Console-1-YuzdeHesaplama.csproj", "{CCC0F1B8-0815-42DC-A03E-1E08BD0B5323}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form-1-YuzdeHesaplama", "Form-1-YuzdeHesaplama\Form-1-YuzdeHesaplama.csproj", "{940A931D-1C0F-4905-AACE-E4ACC1784247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC0F1B8-0815-42DC-A03E-1E08BD0B5323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC0F1B8-0815-42DC-A03E-1E08BD0B5323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC0F1B8-0815-42DC-A03E-1E08BD0B5323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC0F1B8-0815-42DC-A03E-1E08BD0B5323}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940A931D-1C0F-4905-AACE-E4ACC1784247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940A931D-1C0F-4905-AACE-E4ACC1784247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940A931D-1C0F-4905-AACE-E4ACC1784247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940A931D-1C0F-4905-AACE-E4ACC1784247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625378C2-5D33-447B-8355-79F9826C946B}
+	EndGlobalSection
+EndGlobal
